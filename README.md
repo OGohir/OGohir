@@ -18,7 +18,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Engineering student
+- 🎓 Computer Engineering student @ TMU
 - 💻 Moving deeper into Software Engineering
 - 🐍 Building with Python & Java
 - ⚙️ Interested in backend systems and AI infrastructure
