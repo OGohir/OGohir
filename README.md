@@ -30,7 +30,8 @@
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,vscode" />
+  <img src="https://img.shields.io/badge/LibGDX-E74A45?style=for-the-badge&logo=libgdx&logoColor=white" />
 </p>
 
 ---
