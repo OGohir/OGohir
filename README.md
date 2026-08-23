@@ -46,13 +46,7 @@
 
 ## ✨ More About Me
 
-<p align="center">
-  <img 
-    width="750"
-    alt="More about Omaima"
-    src="https://github.com/OGohir/assets/36611cb2-b5c5-4004-931a-1058ece2dff9"
-  />
-</p>
+<img width="1246" height="1246" alt="Note Aug 22, 2026 (4)_page-0001-modified" src="https://github.com/user-attachments/assets/d51bbdc7-9653-4c5c-8156-1c340d541bec" />
 
 ---
 
