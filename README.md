@@ -35,20 +35,11 @@
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,fastapi,docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,git,github,linux" />
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
-### Fault-Tolerant Checkpoint Runtime
-Distributed training infrastructure built around fault recovery and reliable checkpointing.
-
-### ResolveFlow
-Release and authorization tooling for AI agents.
-
 ### More coming soon...
-Currently working on larger software and systems projects.
+Here is more about me!
 <img width="1246" height="1246" alt="Note Aug 22, 2026 (4)_page-0001-modified" src="https://github.com/user-attachments/assets/36611cb2-b5c5-4004-931a-1058ece2dff9" />
 
