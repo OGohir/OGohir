@@ -1,3 +1,2 @@
 ### Hi! I'm Omaima Gohir
-
-<img width="436" height="572" alt="Note_Aug_22__2026__4__page-0001-removebg-preview" src="https://github.com/user-attachments/assets/e3f706a5-1610-4445-ae51-e1971b09a5fb" />
+<img width="1275" height="1674" alt="Note Aug 22, 2026 (4)_page-0001" src="https://github.com/user-attachments/assets/52ba3089-08c0-4227-afd1-dbca807e706c" />
