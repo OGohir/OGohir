@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Omaima Gohir!!! </h1>
+<h1 align="center">Hi, I'm Omaima!!! </h1>
 
 <p align="center">
   Computer (Software) Engineering Student • Software Developer • Builder
@@ -18,7 +18,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Engineering student @ TMU
+- 🎓 Computer Engineering student
 - 💻 Moving deeper into Software Engineering
 - 🐍 Building with Python & Java
 - ⚙️ Interested in backend systems and AI infrastructure
